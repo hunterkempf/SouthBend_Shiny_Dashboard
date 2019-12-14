@@ -32,10 +32,10 @@ Your team will be presenting your dashboard data visualization to the Mayor usin
 #### Final Project Instructions
 
 1. As a team, design and create a dashboard using shinyapp.io that enables interactivity with one or more of the data sets provided.
-⋅⋅a. Each team member must design a separate tab (or NavList entry) on the dashboard that enables a unique interaction or type of visualization.
-⋅⋅b. One team member can choose to handle/coordinate the design choices to make everything consistent/build the architecture.
+⋅⋅1. Each team member must design a separate tab (or NavList entry) on the dashboard that enables a unique interaction or type of visualization.
+⋅⋅2. One team member can choose to handle/coordinate the design choices to make everything consistent/build the architecture.
 2. Draft a two-page, double spaced project brief detailing the rationale for your design choices. This should include:
 An overview of the goals
-⋅⋅a. A rationale for the dashboard / user interface
-⋅⋅b. An Audience analysis
-⋅⋅c. Present your solution to the client in a 5-10 minute video recorded group presentation.
+⋅⋅1. A rationale for the dashboard / user interface
+⋅⋅1. An Audience analysis
+⋅⋅1. Present your solution to the client in a 5-10 minute video recorded group presentation.
